@@ -1,0 +1,6 @@
+Apple;Samsung;Xiaomi;Huawei;Lenovo
+Maximum memory capacity:0.15;10;8;7;6;7
+Price:0.25;7;8;10;9;8
+Battery capacity:0.25;7;8;8;7;8
+Camera quality:0.2;10;9;7;7;6
+CPU speed:0.15;10;9;7;6;7
